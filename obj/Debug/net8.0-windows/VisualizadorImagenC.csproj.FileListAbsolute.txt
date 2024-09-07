@@ -1,0 +1,16 @@
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\bin\Debug\net8.0-windows\VisualizadorImagenC.exe
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\bin\Debug\net8.0-windows\VisualizadorImagenC.deps.json
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\bin\Debug\net8.0-windows\VisualizadorImagenC.runtimeconfig.json
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\bin\Debug\net8.0-windows\VisualizadorImagenC.dll
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\bin\Debug\net8.0-windows\VisualizadorImagenC.pdb
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\obj\Debug\net8.0-windows\VisualizadorImagenC.Form1.resources
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\obj\Debug\net8.0-windows\VisualizadorImagenC.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\obj\Debug\net8.0-windows\VisualizadorImagenC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\obj\Debug\net8.0-windows\VisualizadorImagenC.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\obj\Debug\net8.0-windows\VisualizadorImagenC.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\obj\Debug\net8.0-windows\VisualizadorImagenC.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\obj\Debug\net8.0-windows\VisualizadorImagenC.dll
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\obj\Debug\net8.0-windows\refint\VisualizadorImagenC.dll
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\obj\Debug\net8.0-windows\VisualizadorImagenC.pdb
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\obj\Debug\net8.0-windows\VisualizadorImagenC.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\VisualizadorImagenC\VisualizadorImagenC\obj\Debug\net8.0-windows\ref\VisualizadorImagenC.dll
